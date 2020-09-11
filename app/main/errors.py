@@ -5,5 +5,6 @@ from . import main
 def four_Ow_four(error):
     '''
     Function to render the 404 error page
+    this is a good function
     '''
     return render_template('fourOwfour.html'),404
